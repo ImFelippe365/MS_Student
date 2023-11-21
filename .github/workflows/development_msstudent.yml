@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'MSStudent'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7DF5660755A14DB5AE7EE1952A0FE4EE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_03A4B5D2F1F141C1AA7D8D2545000D93 }}
